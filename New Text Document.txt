@@ -1,0 +1,44 @@
+<!-- Table -->
+
+<thead>
+
+<tr>
+	<th>Name</th>
+	<th>Roll No.</th>
+</tr>
+
+</thead>
+
+
+<tbody>
+
+<tr>
+	<td>Name</td>
+	<td>Roll No.</td>
+</tr>
+
+</tbody>
+
+
+
+<!-- form to give label and on click it ll click the widget -->
+//for take the id
+<label for="Name"></label>
+
+
+
+
+<!-- HTML Entities -->
+
+&nbsp;
+
+&lt;
+&gt;
+
+&copy;
+&pound;
+
+&#8203;
+
+
+https://dev.w3.org/html5/html-author/charref
