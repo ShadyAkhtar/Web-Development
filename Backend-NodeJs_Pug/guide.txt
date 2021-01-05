@@ -1,0 +1,89 @@
+Download nodejs (lts prefered)
+
+allow chocolatey to install
+let additional to download
+
+open powershell to check if nodejs is properly installed
+> node
+
+
+>.exit (to exit)
+
+>node ./filename.js (to run the file)
+
+to test the file visit nodejs website about section copy the boiler template and use it
+
+
+#REPL
+
+_(underscore) for last store value in variable 
+
+tab to nodejs global variable
+
+#tut64
+
+introdution to module
+
+e.g.: fs module
+
+#tut65 blocking(Synchronous) line by line execution
+ non-blocking(Asynchronous) line by line execution not guarantee because it doesnt block the next line it allows the other line to execute so the output will be efficient and less time consuming.
+
+ #tut66 serving html file
+
+ #tut67 custom backend extension to tut 66
+
+ #tut 68 custom module 
+2 files - index.js (import the module and use it)
+mod.js (defining module function remember to export the module to use it)
+
+#tut69 npm (node package manager)
+
+contain 
+package.json file (which contain all dependencies about project)
+node_module folder (contains all module we want to use)
+
+npm --version
+npm init (initialize node package in ur project)
+
+npm install packagename
+e.g npm install express
+
+Intall package with specific version
+npm install slugify@1.3.5
+
+version - major.minor.patch
+
+npm install nodemon --save-dev (it will install module as dev dependencies)
+
+npm install nodemon --global (install the package for all projects on computer (for global use))
+
+version symbols
+^ - exact version
+~ - if new patch releases install that 
+> - latest version of module to be install
+
+npm view nodemon version (to check version of any module)
+
+#tut 70 
+install postman - to fire get , post request
+
+create new folder 
+npm install express
+
+express is used to handle backend routing like we did custom backend
+
+#tut71 
+
+refer tutorial and videos 
+simple routing set and status
+check get and post request using postman
+
+#TUT72
+static file serving
+install pug
+npm install pug
+
+#tut73
+
+
