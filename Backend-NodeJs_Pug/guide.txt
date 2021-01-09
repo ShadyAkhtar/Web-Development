@@ -86,4 +86,12 @@ npm install pug
 
 #tut73
 
+#tut79
+template inheritance in pug
+in views folder we create new file base.pug as a template(master page concept)
+we use block in base.pug and extend the template whereever necessary
+and change the endpoint from index.pug to home.pug
 
+#tut80-tut84 introduction installation of mongodb
+
+#tut85 mangoose
